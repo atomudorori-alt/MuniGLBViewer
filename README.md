@@ -8,7 +8,7 @@ GLB / glTF ファイルを、**解像度を落とさずそのまま**プレビ�
 
 ## ダウンロード
 
-[**Releases ページ**](https://github.com/atomudorori-alt/MuniGLBViewer/releases) から最新の `MuniGLBViewer-v1.0.apk` をダウンロードしてください。
+[**Releases ページ**](https://github.com/atomudorori-alt/MuniGLBViewer/releases) から最新の `MuniGLBViewer-v1.1.apk` をダウンロードしてください。
 
 ## インストール方法
 
@@ -26,7 +26,6 @@ GLB / glTF ファイルを、**解像度を落とさずそのまま**プレビ�
 - 🔄 自動回転の ON/OFF
 - 🎨 背景色の切り替え（ピンク／グレー／白／黒／水色）
 - 📸 今の角度を写真として保存（ギャラリーの Pictures/MuniGLBViewer）
-- 対応機種では AR 表示もできます（モデル表示中の AR ボタン）
 
 ## 特長
 
